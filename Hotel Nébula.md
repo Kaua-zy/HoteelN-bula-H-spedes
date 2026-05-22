@@ -798,7 +798,7 @@
 
 }
 ```
-# Serviços 1
+# Serviço 1
 
 ```json
 
@@ -818,7 +818,7 @@
 
 }
 ```
-# Serviços 2
+# Serviço 2
 
 ```json
 {
