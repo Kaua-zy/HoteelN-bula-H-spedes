@@ -905,4 +905,32 @@
   "visivel": true
 }
 ```
+# Feedbacks 
+
+``` json
+{
+
+{
+  "_id": "5413",
+  "hospede_id": "9859",
+  "hospedagem_id": "9879",
+  "quarto_id": "9849",
+  "data_avaliacao": "16/09/2025",
+  "nota_geral": 4.2,
+  "notas_detalhadas": {
+    "limpeza": 5,
+    "atendimento": 4,
+    "conforto": 5,
+    "custo_beneficio": 4,
+    "localizacao": 4
+  },
+  "comentario": "Adorei a estádia, bons serviços de quarto e ótimo atendimento ": {
+    "texto": "Agradecemos seu feedback,Fernando Ficamos felizes com sua visita e quando vier novamente fique mais tempo haha.",
+    "data": "17/09/2025",
+    "funcionario_id": "1198"
+    "horario" : "15:46"
+  },
+  "visivel": true
+}
+````
 
