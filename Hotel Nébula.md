@@ -833,7 +833,26 @@
     "inicio": "06:00",
     "fim": "22:00"
   },
-  "tags": ["musculação", "cardio", "inclusao_suite"]
+  "tags": ["musculação", "cardio", "saude"]
 }
 ```
+# Serviços 3
+
+```json
+
+{
+"_id": "4083 ",
+  "nome": "Aluguel de Bicicleta",
+  "categoria": "lazer",
+  "descricao": "Locação de bicicletas para passeio pela cidade.",
+  "preco": "40.00"
+  "unidade": "hora",
+  "disponivel": true,
+  "horario_disponivel": {
+    "inicio": "07:00",
+    "fim": "18:00"
+  },
+  "tags": ["Bicicleta", "passeio", "turismo"]
+
+}
 
