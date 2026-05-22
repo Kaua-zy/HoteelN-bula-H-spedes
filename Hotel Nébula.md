@@ -876,7 +876,7 @@
   "tags": ["pet_friendly", "passeio", "cachorro"]
 }
 ```
-# Feedbacks 
+# Feedbacks 1
 
 ``` json
 {
@@ -905,7 +905,7 @@
   "visivel": true
 }
 ```
-# Feedbacks 
+# Feedbacks 2
 
 ``` json
 {
@@ -933,7 +933,7 @@
   "visivel": true
 }
 ````
-# Feedbacks 
+# Feedback 3
 
 ``` json
 {
