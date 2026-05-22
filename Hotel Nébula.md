@@ -857,4 +857,24 @@
 
 }
 ```
+# Serviço 4
 
+```json
+
+
+{
+"_id": "4084 ",
+  "nome": "Pet Care",
+  "categoria": "pets",
+  "descricao": "Serviço de cuidado e passeio para animais de estimação.",
+  "preco": "60.00"
+  "unidade": "diaria",
+  "disponivel": true,
+  "horario_disponivel": {
+    "inicio": "08:00",
+    "fim": "21:00"
+  }
+  "tags": ["pet_friendly", "passeio", "cachorro"]
+
+}
+```
