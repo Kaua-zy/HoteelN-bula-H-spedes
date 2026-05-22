@@ -798,5 +798,24 @@
 
 }
 ```
+# Serviços 1
 
+```json
+
+
+{
+"_id": "4081 ",
+  "nome": "Spa Relaxante",
+  "categoria": "bem-estar",
+  "descricao": "Sessão de spa com massagem relaxante e aromaterapia.",
+  "preco": 180.00,
+  "unidade": "sessao",
+  "disponivel": true,
+  "horario_disponivel": {
+    "inicio": "09:00",
+    "fim": "21:00"
+  },
+  "tags": ["massagem", "relaxante", "aromaterapia"]
+
+}
 
