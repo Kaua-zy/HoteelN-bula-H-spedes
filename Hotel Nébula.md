@@ -876,3 +876,33 @@
   "tags": ["pet_friendly", "passeio", "cachorro"]
 }
 ```
+# Feedbacks 
+
+``` json
+{
+
+{
+  "_id": "5412",
+  "hospede_id": "9868",
+  "hospedagem_id": "9868",
+  "quarto_id": "9848",
+  "data_avaliacao": "20/09/2025",
+  "nota_geral": 4.4,
+  "notas_detalhadas": {
+    "limpeza": 5,
+    "atendimento": 5,
+    "conforto": 5,
+    "custo_beneficio": 4,
+    "localizacao": 5
+  },
+  "comentario": "Foi uma boa estadia! o pessoal me ajudou e foram muito atenciosos e o quarto é incrivel."
+  "resposta_hotel": {
+    "texto": "Agradecemos seu feedback,Lucas, Ficamos felizes com sua visita e esperamos que você volte mais vezes aqui e que bom que você gostou.",
+    "data": "21/09/2025",
+    "funcionario_id": "1267"
+    "horario" : "13:21"
+  },
+  "visivel": true
+}
+```
+
