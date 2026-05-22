@@ -836,7 +836,7 @@
   "tags": ["musculação", "cardio", "saude"]
 }
 ```
-# Serviços 3
+# Serviço 3
 
 ```json
 
