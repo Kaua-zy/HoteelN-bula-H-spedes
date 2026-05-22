@@ -802,7 +802,6 @@
 
 ```json
 
-
 {
 "_id": "4081 ",
   "nome": "Spa Relaxante",
@@ -822,21 +821,19 @@
 # Serviços 2
 
 ```json
-
-
 {
-"_id": "4081 ",
-  "nome": "Spa Relaxante",
-  "categoria": "bem-estar",
-  "descricao": "Sessão de spa com massagem relaxante e aromaterapia.",
-  "preco": 180.00,
-  "unidade": "sessao",
+"_id": "4082 ",
+  "nome": "Academia Premium",
+  "categoria": "fitness",
+  "descricao": "Acesso completo á academia do hotel.",
+  "preco": 0.00, "incluso ao fazer checkin"
+  "unidade": "diaria",
   "disponivel": true,
   "horario_disponivel": {
-    "inicio": "09:00",
-    "fim": "21:00"
+    "inicio": "06:00",
+    "fim": "22:00"
   },
-  "tags": ["massagem", "relaxante", "aromaterapia"]
-
+  "tags": ["musculação", "cardio", "inclusao_suite"]
 }
 ```
+
