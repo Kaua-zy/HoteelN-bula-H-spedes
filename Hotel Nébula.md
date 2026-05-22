@@ -933,4 +933,32 @@
   "visivel": true
 }
 ````
+# Feedbacks 
+
+``` json
+{
+
+{
+  "_id": "5414",
+  "hospede_id": "9880",
+  "hospedagem_id": "9829",
+  "quarto_id": "9877",
+  "data_avaliacao": "18/09/2025",
+  "nota_geral": 4.9,
+  "notas_detalhadas": {
+    "limpeza": 4,
+    "atendimento": 5,
+    "conforto": 5,
+    "custo_beneficio": 4,
+    "localizacao": 5
+  },
+  "comentario": "Adorei a estádia, bons serviços de quarto e um bom atendimento, só achei que a limpeza deixou a desejar, porque foram poucas, mas gostei muito ": {
+    "texto": "Agradecemos seu feedback,Luiz Ficamos felizes com sua visita e pedimos desculpas, estavamos com falta de funcionários na área da limpeza, mas nós vamos resolver isso, novamente pedimos desculpas  ".
+    "data": "19/09/2025",
+    "funcionario_id": "1198"
+    "horario" : "17:16"
+  },
+  "visivel": true
+}
+````
 
