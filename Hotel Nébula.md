@@ -874,6 +874,5 @@
     "fim": "21:00"
   }
   "tags": ["pet_friendly", "passeio", "cachorro"]
-
 }
 ```
